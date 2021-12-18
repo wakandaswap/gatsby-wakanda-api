@@ -1,7 +1,7 @@
-import { ChainId, Token } from "@pancakeswap-libs/sdk";
+import { ChainId, Token } from "@wakandaswap-libs/sdk";
 
 // BEP-20 addresses.
-export const CAKE = "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82";
+export const CAKE = "0x5344c20fd242545f31723689662ac12b9556fc3d";
 export const WBNB = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c";
 export const DEAD = "0x000000000000000000000000000000000000dEaD";
 

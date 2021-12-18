@@ -1,4 +1,4 @@
-import { Pair, TokenAmount } from "@pancakeswap-libs/sdk";
+import { Pair, TokenAmount } from "@wakandaswap-libs/sdk";
 import BigNumber from "bignumber.js";
 import bep20ABI from "./abis/bep20.json";
 import pairABI from "./abis/pair.json";
